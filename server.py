@@ -1,3 +1,4 @@
+2
 # Versiones disponibles
 # forge, mohist, fabric, vanilla, paper
 
